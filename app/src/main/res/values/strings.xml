@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComparaApp01</string>
+    <string name="uno">text1</string>
+    <string name="dos">text2</string>
+    <string name="tres">Comparar</string>
+    <string name="cuatro">Resultado</string>
+
+</resources>
